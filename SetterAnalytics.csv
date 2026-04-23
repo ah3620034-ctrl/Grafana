@@ -1,4 +1,4 @@
-Time,Location,Machine,Shift,Product,Planned Production Time,Available Machine Time,Running Time,Fault Time,Blocked Time,Starved Time,Setup Time,Micro Stops,Minor Stops,Major Stops,MTBF,MTTR,Availability,Performance,Quality,OEE,Total Good Parts,Total Waste Parts,Ideal Production Time,Lost Time Slow Running,Lost Time Slow Running %
+﻿Time,Location,Machine,Shift,Product,Planned Production Time,Available Machine Time,Running Time,Fault Time,Blocked Time,Starved Time,Setup Time,Micro Stops,Minor Stops,Major Stops,MTBF,MTTR,Availability,Performance,Quality,OEE,Total Good Parts,Total Waste Parts,Ideal Production Time,Lost Time Slow Running,Lost Time Slow Running %
 29/03/2026 06:59,Desford,Setter,A Shift Days,WORRM,3548,3442,2310,237,90,16,0,10,0,2,1155,118,67.11,71.91,1,48.26,16128,0,1661.18,648.82,28.09
 30/03/2026 05:59,Desford,Setter,B Shift Nights,WORRM,36233,34631,22145,5040,596,1006,0,88,0,20,1107,252,63.95,60.01,1,38.37,129024,0,13289.47,8855.53,39.99
 30/03/2026 17:59,Desford,Setter,A Shift Days,WORRM,38022,37221,23988,3890,545,256,0,90,0,11,2180,353,64.45,64.06,1,41.28,149184,0,15365.95,8622.05,35.94
